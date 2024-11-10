@@ -1,0 +1,62 @@
+# Java
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+.idea/.idea_modules
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/dynamic.xml
+.idea/vcs.xml
+.idea/git.xml
+.idea/libraries/
+.idea/modules/
+.idea/misc.xml
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+*.launch
+
+# NetBeans
+/nbproject/private/
+.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Javadoc
+**/apidocs/
+
+# Misc
+*.cab
+*.msi
+*.msm
